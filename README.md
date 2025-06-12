@@ -114,9 +114,6 @@ Some models (e.g., `google/gemma-7b-it`) require you to be logged into your Hugg
     ```
     You will be prompted for a token, which you can generate from your Hugging Face account settings: [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
 
-## Contributing
-
-Feel free to open issues or submit pull requests for improvements or bug fixes.
 
 # CLI
 
@@ -142,3 +139,7 @@ python visualizer2.py --file ./samples/Programming/BASIC/guess.bas --models mist
 ```bash
 python visualizer2.py --file ./samples/Text/cities.txt --models mistralai/Mistral-7B-v0.1 gpt-4 google/gemma-7b --ignore-numbers
 ```
+
+## Contributing
+
+Feel free to open issues or submit pull requests for improvements or bug fixes.
