@@ -118,8 +118,7 @@ Some models (e.g., `google/gemma-7b-it`) require you to be logged into your Hugg
 
 Feel free to open issues or submit pull requests for improvements or bug fixes.
 
-# Introduction
-
+# CLI
 
 ## Running the benchmark
 The following command line will allow you to run the tokenizer benchmark against multiple different models
