@@ -1,0 +1,368 @@
+[
+    {
+        "id": "001",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-phrases.txt",
+        "prompt": "كيفن؟\nعامل شنو؟\nتمام؟\nكويس؟\nالحاصل شنو؟\nوريني الجديد؟\nأها؟\nيلا بينا\nوالله جد؟\nأمبارح مشيت السوق"
+    },
+    {
+        "id": "002",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-foods.txt",
+        "prompt": "كسرة\nعصيدة\nملاح\nويكة\nقراصة\nفول\nطعمية\nشية\nكوارع\nدمعة"
+    },
+    {
+        "id": "003",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-names.txt",
+        "prompt": "محمد\nمحمود\nعبدالله\nفاطمة\nآمنة\nزينب\nسعاد\nعلي\nحسن\nحسين"
+    },
+    {
+        "id": "004",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-places.txt",
+        "prompt": "الخرطوم\nبحري\nأم درمان\nمدني\nبورتسودان\nكسلا\nالأبيض\nدنقلا\nعطبرة\nكوستي"
+    },
+    {
+        "id": "005",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-expressions.txt",
+        "prompt": "يا زول\nيلا\nخلاص\nتمام\nكويس\nوالله\nجد\nأها\nشفت كيف؟\nما مشكلة"
+    },
+    {
+        "id": "006",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-objects.txt",
+        "prompt": "ركشة\nتكتك\nعجلة\nصينية\nكوريك\nجردل\nسبت\nشوال\nقفة\nسطل"
+    },
+    {
+        "id": "007",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-animals.txt",
+        "prompt": "جمل\nحمار\nبقرة\nخروف\nماعز\nدجاجة\nديك\nكلب\nقطة\nحصان"
+    },
+    {
+        "id": "008",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-professions.txt",
+        "prompt": "مزارع\nنجار\nحداد\nسواق\nبائع\nطبيب\nمدرس\nشرطي\nعامل\nتاجر"
+    },
+    {
+        "id": "009",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-clothes.txt",
+        "prompt": "جلابية\nثوب\nعراقي\nسروال\nطاقية\nشال\nعمة\nقميص\nبنطلون\nفانلة"
+    },
+    {
+        "id": "010",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-drinks.txt",
+        "prompt": "شاي\nقهوة\nحلو مر\nكركدي\nتمر هندي\nعصير\nموية\nلبن\nسوبيا\nعرقسوس"
+    },
+    {
+        "id": "011",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-slang.txt",
+        "prompt": "مفتح\nمزنوق\nمروق\nمكرب\nمزنوق\nمروق\nمكرب\nمكندش\nمكربس\nمكربج"
+    },
+    {
+        "id": "012",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-proverbs.txt",
+        "prompt": "الما عندو قديم ما عندو جديد\nالضرب في الميت حرام\nالزول بيموت والذكرى بتبقى\nالجار قبل الدار\nاليد الواحدة ما بتصفق\nالكتاحة ما بتخلي زول\nالسمك في البحر ما بتقيفو النار\nالزمن دوار\nالضرة مرة\nالماشي لي قدام ما برجع"
+    },
+    {
+        "id": "013",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-daily.txt",
+        "prompt": "صحيت بدري\nمشيت الشغل\nأكلت فول\nشربت شاي\nركبت ركشة\nوقفت في الصف\nاشتريت عيش\nرجعت البيت\nاتفرجت على التلفزيون\nنمت بدري"
+    },
+    {
+        "id": "014",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-family.txt",
+        "prompt": "أبوي\nأمي\nأخوي\nأختي\nجدي\nحبوبتي\nعمي\nعمتي\nخالي\nخالتي"
+    },
+    {
+        "id": "015",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-weather.txt",
+        "prompt": "الجو حر\nالكتاحة\nالمطر نزل\nالسماء غيم\nالجو بارد\nالرياح شديدة\nالشمس طالعة\nالليل طويل\nالنهار قصير\nالندى في الصباح"
+    },
+    {
+        "id": "016",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-transport.txt",
+        "prompt": "ركشة\nبص\nعربية\nتكتك\nعجلة\nتاكسي\nحافلة\nقطار\nمركب\nدرداقة"
+    },
+    {
+        "id": "017",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-celebrations.txt",
+        "prompt": "عرس\nختان\nمناسبة\nعيد\nجمعة\nمأتم\nسبوع\nمهرجان\nزواج\nعيد ميلاد"
+    },
+    {
+        "id": "018",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-games.txt",
+        "prompt": "سيجة\nدافوري\nشليل\nكورة\nحجلة\nدس دس\nطاق طاق طاقية\nحجلة\nشطرنج\nدومينو"
+    },
+    {
+        "id": "019",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-plants.txt",
+        "prompt": "نخلة\nسنط\nطلح\nهشاب\nدوم\nشجر\nليمون\nبرتقال\nمانجو\nقريب فروت"
+    },
+    {
+        "id": "020",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-instruments.txt",
+        "prompt": "طمبور\nربابة\nعود\nطبل\nصفارة\nنقارة\nجرس\nدف\nكمنجة\nساكسفون"
+    },
+    {
+        "id": "021",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-habits.txt",
+        "prompt": "شرب الشاي\nالونسة\nالضحك\nالتحية\nالجلوس في الضل\nاللعب في الشارع\nالذهاب للسوق\nالاستراحة بعد الغداء\nالاستماع للراديو\nالقراءة في المساء"
+    },
+    {
+        "id": "022",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-questions.txt",
+        "prompt": "وينك؟\nعامل شنو؟\nكيفن؟\nوراك شنو؟\nجيت متين؟\nماشي وين؟\nأها؟\nلقيت شنو؟\nسمعت شنو؟\nوريني الجديد"
+    },
+    {
+        "id": "023",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-verbs.txt",
+        "prompt": "أكل\nشرب\nمشى\nجاء\nجلس\nوقف\nركب\nنزل\nضحك\nبكى"
+    },
+    {
+        "id": "024",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-adjectives.txt",
+        "prompt": "كبير\nصغير\nطويل\nقصير\nسريع\nبطيء\nجميل\nقبيح\nقوي\nضعيف"
+    },
+    {
+        "id": "025",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-nature.txt",
+        "prompt": "نهر النيل\nصحراء\nجبل\nغابة\nواحة\nجزيرة\nخور\nمزرعة\nسهل\nوادي"
+    },
+    {
+        "id": "026",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-technology.txt",
+        "prompt": "موبايل\nراديو\nتلفزيون\nكمبيوتر\nشاحن\nسماعة\nكهربا\nبطارية\nمروحة\nلمبة"
+    },
+    {
+        "id": "027",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-school.txt",
+        "prompt": "مدرسة\nفصل\nسبورة\nطبشورة\nكتاب\nقلم\nكرسي\nطاولة\nمدرس\nطالب"
+    },
+    {
+        "id": "028",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-university.txt",
+        "prompt": "جامعة الخرطوم\nجامعة السودان\nجامعة الجزيرة\nجامعة النيلين\nجامعة أم درمان\nكلية الهندسة\nكلية الطب\nكلية العلوم\nكلية التربية\nكلية الاقتصاد"
+    },
+    {
+        "id": "029",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-health.txt",
+        "prompt": "مستشفى\nصيدلية\nدكتور\nممرض\nمريض\nعلاج\nدواء\nحقنة\nعملية\nعيادة"
+    },
+    {
+        "id": "030",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-sports.txt",
+        "prompt": "هلال\nمريخ\nأهلي شندي\nحي العرب\nكورة\nدافوري\nسباق\nجري\nسباحة\nقفز"
+    },
+    {
+        "id": "031",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-music.txt",
+        "prompt": "حمد الريح\nمحمد وردي\nشرحبيل أحمد\nالنور الجيلاني\nعثمان حسين\nعبد الكريم الكابلي\nمجذوب أونسة\nإبراهيم عوض\nسيف الجامعة\nنانسي عجاج"
+    },
+    {
+        "id": "032",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-artists.txt",
+        "prompt": "التجاني يوسف بشير\nمحمد المهدي المجذوب\nمحجوب شريف\nصلاح أحمد إبراهيم\nروضة الحاج\nسيد أحمد الحاردلو\nمحمد عبد الحي\nعبد الله شابو\nعلي عبد القيوم\nمحمد مفتاح الفيتوري"
+    },
+    {
+        "id": "033",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-politics.txt",
+        "prompt": "البرهان\nحمدوك\nالصادق المهدي\nعلي عثمان\nالترابي\nعبد الرحيم محمد حسين\nمريم الصادق\nغازي صلاح الدين\nعبد الله حمدوك\nسوار الدهب"
+    },
+    {
+        "id": "034",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-transport2.txt",
+        "prompt": "ركشة\nعجلة\nتاكسي\nبص\nحافلة\nمركب\nقطار\nدرداقة\nتكتك\nعربية"
+    },
+    {
+        "id": "035",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-holidays.txt",
+        "prompt": "عيد الفطر\nعيد الأضحى\nرأس السنة\nعيد الاستقلال\nعيد الأم\nعيد العمال\nعيد المعلم\nعيد الشرطة\nعيد الجيش\nعيد الطفل"
+    },
+    {
+        "id": "036",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-flowers.txt",
+        "prompt": "ورد\nفل\nياسمين\nريحان\nكركديه\nزهرة\nنرجس\nقرنفل\nعباد الشمس\nزنبق"
+    },
+    {
+        "id": "037",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-fruits.txt",
+        "prompt": "مانجو\nبرتقال\nليمون\nقريب فروت\nموز\nتفاح\nجوافة\nبطيخ\nشمام\nرمان"
+    },
+    {
+        "id": "038",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-vegetables.txt",
+        "prompt": "طماطم\nبامية\nملوخية\nبطاطس\nجزر\nخيار\nفلفل\nبصل\nثوم\nجرجير"
+    },
+    {
+        "id": "039",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-dishes.txt",
+        "prompt": "ملاح\nعصيدة\nكسرة\nقراصة\nشية\nدمعة\nكوارع\nويكة\nروب\nشرموط"
+    },
+    {
+        "id": "040",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-markets.txt",
+        "prompt": "سوق أم درمان\nسوق ليبيا\nسوق سعد قشرة\nسوق بحري\nسوق الشعبي\nسوق ستة\nسوق الكلاكلة\nسوق الحلة\nسوق الأبيض\nسوق كسلا"
+    },
+    {
+        "id": "041",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-buildings.txt",
+        "prompt": "بيت\nعمارة\nكوخ\nراكو\nحوش\nدكان\nمدرسة\nمستشفى\nجامع\nكنيسة"
+    },
+    {
+        "id": "042",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-transport3.txt",
+        "prompt": "ركشة\nعجلة\nتاكسي\nبص\nحافلة\nمركب\nقطار\nدرداقة\nتكتك\nعربية"
+    },
+    {
+        "id": "043",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-occupations.txt",
+        "prompt": "مزارع\nنجار\nحداد\nسواق\nبائع\nطبيب\nمدرس\nشرطي\nعامل\nتاجر"
+    },
+    {
+        "id": "044",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-transport4.txt",
+        "prompt": "ركشة\nعجلة\nتاكسي\nبص\nحافلة\nمركب\nقطار\nدرداقة\nتكتك\nعربية"
+    },
+    {
+        "id": "045",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-objects2.txt",
+        "prompt": "ركشة\nتكتك\nعجلة\nصينية\nكوريك\nجردل\nسبت\nشوال\nقفة\nسطل"
+    },
+    {
+        "id": "046",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-animals2.txt",
+        "prompt": "جمل\nحمار\nبقرة\nخروف\nماعز\nدجاجة\nديك\nكلب\nقطة\nحصان"
+    },
+    {
+        "id": "047",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-professions2.txt",
+        "prompt": "مزارع\nنجار\nحداد\nسواق\nبائع\nطبيب\nمدرس\nشرطي\nعامل\nتاجر"
+    },
+    {
+        "id": "048",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-clothes2.txt",
+        "prompt": "جلابية\nثوب\nعراقي\nسروال\nطاقية\nشال\nعمة\nقميص\nبنطلون\nفانلة"
+    },
+    {
+        "id": "049",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-drinks2.txt",
+        "prompt": "شاي\nقهوة\nحلو مر\nكركدي\nتمر هندي\nعصير\nموية\nلبن\nسوبيا\nعرقسوس"
+    },
+    {
+        "id": "050",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-slang2.txt",
+        "prompt": "مفتح\nمزنوق\nمروق\nمكرب\nمزنوق\nمروق\nمكرب\nمكندش\nمكربس\nمكربج"
+    },
+    {
+        "id": "051",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-proverbs2.txt",
+        "prompt": "الما عندو قديم ما عندو جديد\nالضرب في الميت حرام\nالزول بيموت والذكرى بتبقى\nالجار قبل الدار\nاليد الواحدة ما بتصفق\nالكتاحة ما بتخلي زول\nالسمك في البحر ما بتقيفو النار\nالزمن دوار\nالضرة مرة\nالماشي لي قدام ما برجع"
+    },
+    {
+        "id": "052",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-daily2.txt",
+        "prompt": "صحيت بدري\nمشيت الشغل\nأكلت فول\nشربت شاي\nركبت ركشة\nوقفت في الصف\nاشتريت عيش\nرجعت البيت\nاتفرجت على التلفزيون\nنمت بدري"
+    },
+    {
+        "id": "053",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-family2.txt",
+        "prompt": "أبوي\nأمي\nأخوي\nأختي\nجدي\nجدتي\nعمي\nعمتي\nخالي\nخالتي"
+    },
+    {
+        "id": "054",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-weather2.txt",
+        "prompt": "الجو حر\nالكتاحة\nالمطر نزل\nالسماء غيم\nالجو بارد\nالرياح شديدة\nالشمس طالعة\nالليل طويل\nالنهار قصير\nالندى في الصباح"
+    },
+    {
+        "id": "055",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-transport5.txt",
+        "prompt": "ركشة\nبص\nعربية\nتكتك\nعجلة\nتاكسي\nحافلة\nقطار\nمركب\nدرداقة"
+    },
+    {
+        "id": "056",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-celebrations2.txt",
+        "prompt": "عرس\nختان\nمناسبة\nعيد\nجمعة\nمأتم\nسبوع\nمهرجان\nزواج\nعيد ميلاد"
+    },
+    {
+        "id": "057",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-games2.txt",
+        "prompt": "سيجة\nدافوري\nشليل\nكورة\nحجلة\nدس دس\nطاق طاق طاقية\nحجلة\nشطرنج\nدومينو"
+    },
+    {
+        "id": "058",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-plants2.txt",
+        "prompt": "نخلة\nسنط\nطلح\nهشاب\nدوم\nشجر\nليمون\nبرتقال\nمانجو\nقريب فروت"
+    },
+    {
+        "id": "059",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-instruments2.txt",
+        "prompt": "طمبور\nربابة\nعود\nطبل\nصفارة\nنقارة\nجرس\nدف\nكمنجة\nساكسفون"
+    },
+    {
+        "id": "060",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-habits2.txt",
+        "prompt": "شرب الشاي\nالونسة\nالضحك\nالتحية\nالجلوس في الضل\nاللعب في الشارع\nالذهاب للسوق\nالاستراحة بعد الغداء\nالاستماع للراديو\nالقراءة في المساء"
+    },
+    {
+        "id": "061",
+        "classification": "Sudanese Dialect",
+        "filename": "sudanese-questions2.txt",
+        "prompt": "وينك؟\nعامل شنو؟\nكيفن؟\nوراك شنو؟\nجيت متين؟\nماشي وين؟\nأها؟\nلقيت شنو؟\nسمعت شنو؟\nوريني الجديد"
+    }
+]
